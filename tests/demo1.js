@@ -1,0 +1,12 @@
+"use strict";
+let Myname = "Tejaswi";
+let age = 25;
+let isActie = true;
+let num = [2, 5, 7, 3, 4];
+let data = "my name is Tejaswi Nunna";
+data = 24;
+console.log(Myname);
+console.log(age);
+console.log(data);
+console.log(num);
+console.log(isActie);
